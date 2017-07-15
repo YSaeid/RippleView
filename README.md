@@ -3,6 +3,7 @@
 <img src="https://github.com/YSaeid/RippleView/blob/master/ScreenShot.gif">
 <h1>Installation</h1>
 <span>Add this line to your project build.gradle</span>
+
 ```javascript
 allprojects {
     repositories {
@@ -11,3 +12,4 @@ allprojects {
     }
 }
 ```
+
