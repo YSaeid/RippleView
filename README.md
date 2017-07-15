@@ -1,4 +1,4 @@
 # RippleRelativeLayout
 <h1>Android RelativeLayout That Ripple With out Any Code</h1>
-<img>
+<img src="https://github.com/YSaeid/RippleView/blob/master/ScreenShot.gif">
 <h1>Installation</h1>
